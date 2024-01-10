@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--practice-ws-haripracticesa",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/3f2e4d32-8e8d-46d6-82bc-5bb8d962328b/resourceGroups/databricks-practice-hari-rg/providers/Microsoft.Storage/storageAccounts/haripracticesa",
+		"groupId": "dfs"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--practice-ws",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/3f2e4d32-8e8d-46d6-82bc-5bb8d962328b/resourceGroups/databricks-practice-hari-rg/providers/Microsoft.Synapse/workspaces/practice-ws",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"practice-ws-ondemand.bad4eb4b-02bf-4e2f-972e-1efa3ebf1879.sql.azuresynapse.net"
+		]
+	}
+}
